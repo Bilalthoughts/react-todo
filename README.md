@@ -1,1 +1,2 @@
-# react-todo
+# Todo App
+A simple Todo built using React.
